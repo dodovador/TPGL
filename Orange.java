@@ -68,5 +68,6 @@ public class Orange {
         Orange orange2 = new Orange(50,"Suede");
         System.out.println(orange2);
         System.out.println(orange1.equals(orange));
+        System.out.println("coucou");
    }
 }
